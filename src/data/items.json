@@ -1,0 +1,14 @@
+[
+  { "id": "envelope", "name": "Kitu kidogo", "kind": "illegal", "politician": 2, "citizen": 0, "color": "#f5bb45", "symbol": "K" },
+  { "id": "tender", "name": "Tender money", "kind": "illegal", "politician": 3, "citizen": 0, "color": "#e78c48", "symbol": "T" },
+  { "id": "fake_receipt", "name": "Fake receipt", "kind": "illegal", "politician": 1, "citizen": 0, "color": "#e78c48", "symbol": "R" },
+  { "id": "ghost_worker", "name": "Ghost payroll", "kind": "illegal", "politician": 2, "citizen": 0, "color": "#d98068", "symbol": "G" },
+  { "id": "facilitation_fee", "name": "Facilitation fee", "kind": "illegal", "politician": 2, "citizen": 0, "color": "#f5bb45", "symbol": "F" },
+  { "id": "donor_diversion", "name": "Diverted donor funds", "kind": "illegal", "politician": 3, "citizen": 0, "color": "#bf8ac8", "symbol": "D" },
+  { "id": "lunch", "name": "School lunch", "kind": "legal", "politician": 0, "citizen": 2, "color": "#63c7a2", "symbol": "L" },
+  { "id": "water", "name": "Clean water", "kind": "legal", "politician": 0, "citizen": 3, "color": "#65b9e8", "symbol": "W" },
+  { "id": "hospital_budget", "name": "Hospital budget", "kind": "legal", "politician": 0, "citizen": 3, "color": "#75c1a3", "symbol": "H" },
+  { "id": "borehole", "name": "Borehole project", "kind": "legal", "politician": 0, "citizen": 3, "color": "#58b4d1", "symbol": "B" },
+  { "id": "road_tarmac", "name": "Road tarmac", "kind": "legal", "politician": 0, "citizen": 2, "color": "#b7c68b", "symbol": "R" },
+  { "id": "donor_delivery", "name": "Donor funds delivered", "kind": "legal", "politician": 0, "citizen": 3, "color": "#9a9de0", "symbol": "D" }
+]

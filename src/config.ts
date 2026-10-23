@@ -1,0 +1,10 @@
+export const GAME_WIDTH = 960;
+export const GAME_HEIGHT = 540;
+export const WORLD_WIDTH = 1800;
+export const GROUND_Y = 470;
+export const PLAYER_BASE_SIZE = 32;
+export const PLAYER_MIN_SCALE = 0.8;
+export const PLAYER_MAX_SCALE = 1.8;
+export const WALK_SPEED = 245;
+export const JUMP_VELOCITY = -470;
+export const SIZE_MAX = 10;
